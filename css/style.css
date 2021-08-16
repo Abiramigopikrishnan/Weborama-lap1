@@ -4,7 +4,7 @@
 #head2{
     color:#00FF00;
 }
-#head2{
+#head3{
     color:hsl(300, 100%, 25%, 75%);
 }
 .head1{
@@ -93,8 +93,8 @@
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     height:100px;
     width:100px;
-    /* bottom: 50%;
-    top:1rem; */
+    bottom: 50%;
+    top:1rem;
 }
 .center{
     padding:25px,100px,25px,100px;
